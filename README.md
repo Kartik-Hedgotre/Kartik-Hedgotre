@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1>Hey there ! I'm Kartik Hedgotre 👋</h1>
   
@@ -11,16 +10,11 @@
 
 <br/>
 
-<h2 align = "center">🧑‍💻 About me</h2>
-<p>
-I’m a Computer Engineering student with a strong interest in software engineering and building scalable systems. With a solid foundation in data structures & algorithms. I focus on writing efficient, clean, and maintainable code.<br>
-I enjoy developing full-stack web applications using the MERN stack and turning ideas into practical, real-world solutions. My interests lie in backend development, system design, and creating applications that are both performant and user-focused.
-  <ul>
-    <li>Skilled in Data Structures & Algorithms, java and MERN stack development.</li>
-    <li>Strong focous on backend developement and scalable system architecture.</li>
-    <li>Continuously improving problem-solving ability and development skills.</li>
-  </ul>
-</p>
+## 👨‍💻 About Me
+* 🎓 Computer Engineering student at **Mumbai University (VPPCOE)**.
+* 💡 Specialist in **MERN Stack** development and **Data Structures & Algorithms**.
+* 🛠️ Passionate about **Precision Agriculture** (MatiMitra) and **IoT-based automation**.
+* 🌟 Focused on creating high-end UI/UX with **Tailwind CSS** and **Framer Motion**.
 
 <br/>
 
@@ -55,11 +49,14 @@ I enjoy developing full-stack web applications using the MERN stack and turning 
 <br/>
 
 ## 📈 GitHub Snapshot
+
+### 📊 Row 1: Activity & Languages
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kartik-hedgotre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-hedgotre&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+### 🔥 Row 2: Contribution & Streaks
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-hedgotre&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartik-hedgotre&theme=tokyonight" />
