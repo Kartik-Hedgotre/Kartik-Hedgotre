@@ -12,7 +12,7 @@
 
 <h2>🧑‍💻 About me</h2>
 <p>
-  I’m a Computer Engineering student with a strong interest in software engineering and building scalable systems. With a solid foundation in data structures and programming, I focus on writing efficient, clean, and maintainable code.<br>
+  I’m a Computer Engineering student with a strong interest in Data structures & algorithms and building scalable systems. With a solid foundation in data structures and programming, I focus on writing efficient, clean, and maintainable code.<br>
 I enjoy developing full-stack web applications using the MERN stack and turning ideas into practical, real-world solutions. My interests lie in backend development, system design, and creating applications that are both performant and user-focused.
 <ul>
   <li>Skilled in Data Structures & Algorithms, java and MERN stack development.</li>
