@@ -10,11 +10,16 @@
 
 <br/>
 
-## 👨‍💻 About Me
-* 🎓 Computer Engineering student at **Mumbai University (VPPCOE)**.
-* 💡 Specialist in **MERN Stack** development and **Data Structures & Algorithms**.
-* 🛠️ Passionate about **Precision Agriculture** (MatiMitra) and **IoT-based automation**.
-* 🌟 Focused on creating high-end UI/UX with **Tailwind CSS** and **Framer Motion**.
+<h2>🧑‍💻 About me</h2>
+<p>
+  I’m a Computer Engineering student with a strong interest in software engineering and building scalable systems. With a solid foundation in data structures and programming, I focus on writing efficient, clean, and maintainable code.<br>
+I enjoy developing full-stack web applications using the MERN stack and turning ideas into practical, real-world solutions. My interests lie in backend development, system design, and creating applications that are both performant and user-focused.
+<ul>
+  <li>Skilled in Data Structures & Algorithms, java and MERN stack development.</li>
+  <li>Passionate about designing backed systems that are reliable, efficient and built to scale.</li>
+  <li>Continously improving problem-solving ability and development skills.</li>
+</ul>
+</p>
 
 <br/>
 
