@@ -2,24 +2,20 @@
   <h1>Hey there ! I'm Kartik Hedgotre 👋</h1>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=400&color=7aa2f7&center=true&vCenter=true&width=800&height=50&lines=I+am+into+Backend+Dev;I+am+into+Competitive+Programming;I+am+into+Full+Stack+Dev" alt="Typing SVG" />
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=kartik-hedgotre&label=Profile%20Visitors&color=7aa2f7&style=for-the-badge" alt="Visitors" />
-  </p>
 </div>
 
 <br/>
 
-<h2>🧑‍💻 About me</h2>
+<h2>🧑‍💻 About Me</h2>
 <p>
-  I’m a Computer Engineering student with a strong interest in Data structures & algorithms and building scalable systems. With a solid foundation in data structures and programming, I focus on writing efficient, clean, and maintainable code.<br>
-I enjoy developing full-stack web applications using the MERN stack and turning ideas into practical, real-world solutions. My interests lie in backend development, system design, and creating applications that are both performant and user-focused.
-<ul>
-  <li>Skilled in Data Structures & Algorithms, java and MERN stack development.</li>
-  <li>Passionate about designing backed systems that are reliable, efficient and built to scale.</li>
-  <li>Continously improving problem-solving ability and development skills.</li>
-</ul>
-</p>
+  I am <strong>Computer Engineering</strong> student with strong intrest in Data Structures & Algorithmsand building scalable systems. With a solid foundation in Data Structures and programming I focous on writing efficient, clean, and maintainable code.<br>
+    I enjoy developing full-stack applications using <strong>MERN stack </strong> and turning ideas into practical, rela world solutions. My intrest lie in backend development, system design, and clean applications that are both performant and user-focoused
+  <ul>
+    <li>Skilled it Data Structures & Algorithms, java and MERN stack developement</li>
+    <li>Experience in building clean  full-stack applications with clean API design</li>
+    <li>Sreong focous on backend engineering and scalable system architecture</li>
+                                                                                   
+  </ul>
 
 <br/>
 
@@ -55,14 +51,17 @@ I enjoy developing full-stack web applications using the MERN stack and turning 
 
 ## 📈 GitHub Snapshot
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kartik-hedgotre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-hedgotre&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-hedgotre&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=kartik-hedgotre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+<br/>
+<div align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-hedgotre&layout=compact&theme=tokyonight&hide_border=true&card_width=495" alt="Top Languages" />
+</div>
+<br/>
+<div align="center">
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-hedgotre&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <br/>
 
