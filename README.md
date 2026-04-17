@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey there ! I'm Kartik Hedgotre 👋</h1>
+  <h1>Hey there 👋 ! I'm Kartik Hedgotre </h1>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=400&color=7aa2f7&center=true&vCenter=true&width=800&height=50&lines=I+am+into+Backend+Dev;I+am+into+Competitive+Programming;I+am+into+Full+Stack+Dev" alt="Typing SVG" />
 </div>
