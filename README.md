@@ -33,7 +33,7 @@
 <br/>
 
 <div align="center">
-  <h2>⚡ Languages & Tools</h2>
+  <h2>⚙️ Languages & Tools</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js" alt="Tech Stack Row 1" />
   </a>
