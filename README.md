@@ -57,12 +57,11 @@ I enjoy developing full-stack web applications using the MERN stack and turning 
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kartik-hedgotre&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-hedgotre&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-hedgotre&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-hedgotre&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartik-hedgotre&theme=tokyonight" />
 </p>
 
 <br/>
