@@ -8,7 +8,7 @@
 
 <h2>🧑‍💻 About Me</h2>
 <p>
-  I am <strong>Computer Engineering</strong> student with strong intrest in Data Structures & Algorithmsand building scalable systems. With a solid foundation in Data Structures and programming I focous on writing efficient, clean, and maintainable code.<br>
+  I am <strong>Computer Engineering</strong> student with strong intrest in Data Structures & Algorithms and building scalable systems. With a solid foundation in Data Structures and programming I focous on writing efficient, clean, and maintainable code.<br>
     I enjoy developing full-stack applications using <strong>MERN stack </strong> and turning ideas into practical, rela world solutions. My intrest lie in backend development, system design, and clean applications that are both performant and user-focoused
   <ul>
     <li>Skilled it Data Structures & Algorithms, java and MERN stack developement</li>
